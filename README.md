@@ -180,7 +180,3 @@ This project demonstrates a flexible and efficient implementation of **three maj
 It highlights the importance of **data structure design**, **tree balancing**, and **algorithmic efficiency** — key principles in **Data Structures (CMSC 341)**.
 
 ---
-
-## 🪪 License
-
-This project is released for **educational use** under the [MIT License](./LICENSE).
